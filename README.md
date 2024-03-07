@@ -1,8 +1,5 @@
 # Subtitles-Generation-multiple-language
 This repository holds a treasure trove of transcriptions in various languages, waiting to be discovered.
-
-To generate a README file for the provided Python script, you can outline the purpose of the script, its usage, dependencies, and any other relevant information. Here's a template README for your script:
-
 Video Transcription Script
 This Python script is designed to transcribe videos into text using the Whisper library and generate SRT files for subtitles. It chunks the video into smaller segments, transcribes each segment, and creates SRT files containing the transcriptions.
 
